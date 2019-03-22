@@ -1,0 +1,13 @@
+Package: ggecho
+Type: Package
+Title: GGplot Stat to Duplicate Elements
+Version: 0.1.0
+Author: mikefc
+Maintainer: mikefc <mikefc@coolbutuseless.com>
+Description: GGplot stat to duplicate elements.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports:
+  ggplot2
