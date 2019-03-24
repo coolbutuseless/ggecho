@@ -1,7 +1,7 @@
 Package: ggecho
 Type: Package
 Title: GGplot Stat to Duplicate Elements
-Version: 0.1.0
+Version: 0.1.1
 Author: mikefc
 Maintainer: mikefc <mikefc@coolbutuseless.com>
 Description: GGplot stat to duplicate elements.
